@@ -1,16 +1,25 @@
-### Hi there 👋
+<p align="center"> <img src="https://sdk.bitmoji.com/render/panel/ca903b65-e4d1-442e-83ed-2d114d935f01-20892a24-6670-44f3-9e31-5ec3f6d40414-v1.png?transparent=1&palette=1"/> </p>
 
-<!--
-**snevindsouza/snevindsouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Snevin Leoneel Dsouza</h1>
+<h3 align="center">A passionate Electronics and Communication Engineer </h3>
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on **Foot pressure monitoring system **
+- 🌱 I’m currently learning **FPGA** 
+- 👯 I’m looking to collaborate on **VLSI/Verilog projects**
+- 📫 How to reach me: **snevindso1996@outlook.com**
+<!--- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...-->
+## 🌐 Lets Connect: **[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/snevindsouza)**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=snevindsouza&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=snevindsouza&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=snevindsouza&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=snevindsouza&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+---
+[![](https://visitcount.itsvg.in/api?id=snevindsouza&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
