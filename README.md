@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Snevin Leoneel Dsouza</h1>
 <h3 align="center">A passionate Electronics and Communication Engineer </h3>
 
-- 🔭 I’m currently working on **Foot pressure monitoring system **
+- 🔭 I’m currently working on **Foot pressure monitoring system**
 - 🌱 I’m currently learning **FPGA** 
 - 👯 I’m looking to collaborate on **VLSI/Verilog projects**
 - 📫 How to reach me: **snevindso1996@outlook.com**
