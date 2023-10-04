@@ -1,6 +1,4 @@
-<p align="center"> <img src="https://sdk.bitmoji.com/render/panel/ca903b65-e4d1-442e-83ed-2d114d935f01-20892a24-6670-44f3-9e31-5ec3f6d40414-v1.png?transparent=1&palette=1"/> </p>
-
-<h1 align="center">Hi 👋, I'm Snevin Leoneel Dsouza</h1>
+<h1 align="center">Hi, I'm Snevin Leoneel Dsouza</h1>
 <h3 align="center">A passionate Electronics and Communication Engineer </h3>
 
 - 🔭 I’m currently working on **Foot pressure monitoring system**
