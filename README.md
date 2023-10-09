@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning **FPGA** 
 - 👯 I’m looking to collaborate on **VLSI/Verilog projects**
 - 📫 How to reach me: **snevindso1996@outlook.com**
-<!--- 🤔 I’m looking for help with ...
+<!--- 🤔 I’m looking for help with **Research** 
 - 💬 Ask me about ...-->
 ## 🌐 Lets Connect: **[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/snevindsouza)**
 
