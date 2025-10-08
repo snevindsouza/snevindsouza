@@ -3,9 +3,9 @@
 <h1 align="center">Hi, I'm Snevin Leoneel Dsouza</h1>
 <h3 align="center">A passionate Electronics and Communication Engineer </h3>
 
-- 🔭 I’m currently working on **Smart footwear: Foot pressure monitoring system**
-- 🌱 I’m currently learning **FPGA** 
-- 👯 I’m looking to collaborate on **VLSI/Verilog projects**
+- 🔭 I’m currently working on **Tiny Tape-out**
+- 🌱 I’m currently learning **OpenFPGA** 
+- 👯 I’m looking to collaborate on **FPGA/Verilog projects**
 - 📫 How to reach me: **snevindsouza@outlook.com**
 <!--- 🤔 I’m looking for help with **Research** 
 - 💬 Ask me about ...-->
