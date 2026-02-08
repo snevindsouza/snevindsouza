@@ -1,11 +1,11 @@
 
 
 <h1 align="center">Hi, I'm Snevin Leoneel Dsouza</h1>
-<h3 align="center">A passionate Electronics and Communication Engineer </h3>
+<h3 align="center">RTL Design Engineer </h3>
 
 - 🔭 I’m currently working on [Tiny Tapeout](https://github.com/snevindsouza/NCO_TTO)
 
-- 🌱 I’m currently learning **OpenFPGA**
+- 🌱 I’m currently learning **I3C Protocol**
 
 - 👯 I’m looking to collaborate on **FPGA/RTL Projjects**
 
@@ -27,10 +27,10 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=snevindsouza&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 ![](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=snevindsouza&layout=compact&exclude_lang=java+r&theme=vue-dark)
 
-
+<!--
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=snevindsouza&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
+-->
 [![](https://visitcount.itsvg.in/api?id=snevindsouza&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=snevindsouza&label=Profile%20views&color=0e75b6&style=flat" alt="snevindsouza" /> </p>
